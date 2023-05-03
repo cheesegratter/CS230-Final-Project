@@ -1,0 +1,4 @@
+matplotlib3.7.1-dev
+streamlit1.12.0-dev
+pandas2.0.1-dev
+geopandas0.12.2-dev
